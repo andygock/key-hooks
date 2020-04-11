@@ -1,5 +1,5 @@
 {
-  "name": "@andygock/key-hooks",
+  "name": "key-hooks",
   "version": "1.0.0",
   "description": "React hooks for keypress handling",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "author": "",
   "license": "MIT",
-  "url": "https://github.com/andygock/key-hooks"
+  "repository": "github:andygock/key-hooks",
+  "dependencies": {}
 }
