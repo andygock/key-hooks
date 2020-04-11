@@ -1,0 +1,12 @@
+{
+  "name": "@andygock/key-hooks",
+  "version": "1.0.0",
+  "description": "React hooks for keypress handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "url": "https://github.com/andygock/key-hooks"
+}
